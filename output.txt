@@ -1,0 +1,6 @@
+The number 2^3 is = 8
+The number 85^0 is = 1
+Please enter a positive number.
+Error: Invalid input - Hello
+The number 5^2 is = 25
+Please enter a positive number.
